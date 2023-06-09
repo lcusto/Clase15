@@ -1,4 +1,5 @@
 # Clase15
-Practica clase 15gi
-Practica con mucho frio
-buen equipo
+Práctica clase 15
+
+Práctica con mucho frío
+Buen equipo
